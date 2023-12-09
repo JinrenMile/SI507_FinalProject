@@ -1,0 +1,2432 @@
+[
+    {
+        "title": "The Shawshank Redemption",
+        "year": "1994",
+        "runtime": "2h 22m",
+        "rated": "R",
+        "rating": 9.3,
+        "vote_count": "2.8M",
+        "link": "https://m.imdb.com/title/tt0111161/?ref_=chttp_t_1"
+    },
+    {
+        "title": "The Godfather",
+        "year": "1972",
+        "runtime": "2h 55m",
+        "rated": "R",
+        "rating": 9.2,
+        "vote_count": "2M",
+        "link": "https://m.imdb.com/title/tt0068646/?ref_=chttp_t_2"
+    },
+    {
+        "title": "The Dark Knight",
+        "year": "2008",
+        "runtime": "2h 32m",
+        "rated": "PG-13",
+        "rating": 9.0,
+        "vote_count": "2.8M",
+        "link": "https://m.imdb.com/title/tt0468569/?ref_=chttp_t_3"
+    },
+    {
+        "title": "The Godfather Part II",
+        "year": "1974",
+        "runtime": "3h 22m",
+        "rated": "R",
+        "rating": 9.0,
+        "vote_count": "1.3M",
+        "link": "https://m.imdb.com/title/tt0071562/?ref_=chttp_t_4"
+    },
+    {
+        "title": "12 Angry Men",
+        "year": "1957",
+        "runtime": "1h 36m",
+        "rated": "Approved",
+        "rating": 9.0,
+        "vote_count": "842K",
+        "link": "https://m.imdb.com/title/tt0050083/?ref_=chttp_t_5"
+    },
+    {
+        "title": "Schindler's List",
+        "year": "1993",
+        "runtime": "3h 15m",
+        "rated": "R",
+        "rating": 9.0,
+        "vote_count": "1.4M",
+        "link": "https://m.imdb.com/title/tt0108052/?ref_=chttp_t_6"
+    },
+    {
+        "title": "The Lord of the Rings: The Return of the King",
+        "year": "2003",
+        "runtime": "3h 21m",
+        "rated": "PG-13",
+        "rating": 9.0,
+        "vote_count": "1.9M",
+        "link": "https://m.imdb.com/title/tt0167260/?ref_=chttp_t_7"
+    },
+    {
+        "title": "Pulp Fiction",
+        "year": "1994",
+        "runtime": "2h 34m",
+        "rated": "R",
+        "rating": 8.9,
+        "vote_count": "2.2M",
+        "link": "https://m.imdb.com/title/tt0110912/?ref_=chttp_t_8"
+    },
+    {
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "year": "2001",
+        "runtime": "2h 58m",
+        "rated": "PG-13",
+        "rating": 8.8,
+        "vote_count": "2M",
+        "link": "https://m.imdb.com/title/tt0120737/?ref_=chttp_t_9"
+    },
+    {
+        "title": "The Good, the Bad and the Ugly",
+        "year": "1966",
+        "runtime": "2h 58m",
+        "rated": "Approved",
+        "rating": 8.8,
+        "vote_count": "796K",
+        "link": "https://m.imdb.com/title/tt0060196/?ref_=chttp_t_10"
+    },
+    {
+        "title": "Forrest Gump",
+        "year": "1994",
+        "runtime": "2h 22m",
+        "rated": "PG-13",
+        "rating": 8.8,
+        "vote_count": "2.2M",
+        "link": "https://m.imdb.com/title/tt0109830/?ref_=chttp_t_11"
+    },
+    {
+        "title": "Fight Club",
+        "year": "1999",
+        "runtime": "2h 19m",
+        "rated": "R",
+        "rating": 8.8,
+        "vote_count": "2.3M",
+        "link": "https://m.imdb.com/title/tt0137523/?ref_=chttp_t_12"
+    },
+    {
+        "title": "The Lord of the Rings: The Two Towers",
+        "year": "2002",
+        "runtime": "2h 59m",
+        "rated": "PG-13",
+        "rating": 8.8,
+        "vote_count": "1.7M",
+        "link": "https://m.imdb.com/title/tt0167261/?ref_=chttp_t_13"
+    },
+    {
+        "title": "Inception",
+        "year": "2010",
+        "runtime": "2h 28m",
+        "rated": "PG-13",
+        "rating": 8.8,
+        "vote_count": "2.5M",
+        "link": "https://m.imdb.com/title/tt1375666/?ref_=chttp_t_14"
+    },
+    {
+        "title": "Star Wars: Episode V - The Empire Strikes Back",
+        "year": "1980",
+        "runtime": "2h 4m",
+        "rated": "PG",
+        "rating": 8.7,
+        "vote_count": "1.4M",
+        "link": "https://m.imdb.com/title/tt0080684/?ref_=chttp_t_15"
+    },
+    {
+        "title": "The Matrix",
+        "year": "1999",
+        "runtime": "2h 16m",
+        "rated": "R",
+        "rating": 8.7,
+        "vote_count": "2M",
+        "link": "https://m.imdb.com/title/tt0133093/?ref_=chttp_t_16"
+    },
+    {
+        "title": "Goodfellas",
+        "year": "1990",
+        "runtime": "2h 25m",
+        "rated": "R",
+        "rating": 8.7,
+        "vote_count": "1.2M",
+        "link": "https://m.imdb.com/title/tt0099685/?ref_=chttp_t_17"
+    },
+    {
+        "title": "One Flew Over the Cuckoo's Nest",
+        "year": "1975",
+        "runtime": "2h 13m",
+        "rated": "R",
+        "rating": 8.7,
+        "vote_count": "1.1M",
+        "link": "https://m.imdb.com/title/tt0073486/?ref_=chttp_t_18"
+    },
+    {
+        "title": "Se7en",
+        "year": "1995",
+        "runtime": "2h 7m",
+        "rated": "R",
+        "rating": 8.6,
+        "vote_count": "1.8M",
+        "link": "https://m.imdb.com/title/tt0114369/?ref_=chttp_t_19"
+    },
+    {
+        "title": "It's a Wonderful Life",
+        "year": "1946",
+        "runtime": "2h 10m",
+        "rated": "PG",
+        "rating": 8.6,
+        "vote_count": "483K",
+        "link": "https://m.imdb.com/title/tt0038650/?ref_=chttp_t_20"
+    },
+    {
+        "title": "Seven Samurai",
+        "year": "1954",
+        "runtime": "3h 27m",
+        "rated": "Not Rated",
+        "rating": 8.6,
+        "vote_count": "361K",
+        "link": "https://m.imdb.com/title/tt0047478/?ref_=chttp_t_21"
+    },
+    {
+        "title": "Interstellar",
+        "year": "2014",
+        "runtime": "2h 49m",
+        "rated": "PG-13",
+        "rating": 8.7,
+        "vote_count": "2M",
+        "link": "https://m.imdb.com/title/tt0816692/?ref_=chttp_t_22"
+    },
+    {
+        "title": "The Silence of the Lambs",
+        "year": "1991",
+        "runtime": "1h 58m",
+        "rated": "R",
+        "rating": 8.6,
+        "vote_count": "1.5M",
+        "link": "https://m.imdb.com/title/tt0102926/?ref_=chttp_t_23"
+    },
+    {
+        "title": "Saving Private Ryan",
+        "year": "1998",
+        "runtime": "2h 49m",
+        "rated": "R",
+        "rating": 8.6,
+        "vote_count": "1.5M",
+        "link": "https://m.imdb.com/title/tt0120815/?ref_=chttp_t_24"
+    },
+    {
+        "title": "City of God",
+        "year": "2002",
+        "runtime": "2h 10m",
+        "rated": "R",
+        "rating": 8.6,
+        "vote_count": "787K",
+        "link": "https://m.imdb.com/title/tt0317248/?ref_=chttp_t_25"
+    },
+    {
+        "title": "Life Is Beautiful",
+        "year": "1997",
+        "runtime": "1h 56m",
+        "rated": "PG-13",
+        "rating": 8.6,
+        "vote_count": "728K",
+        "link": "https://m.imdb.com/title/tt0118799/?ref_=chttp_t_26"
+    },
+    {
+        "title": "The Green Mile",
+        "year": "1999",
+        "runtime": "3h 9m",
+        "rated": "R",
+        "rating": 8.6,
+        "vote_count": "1.4M",
+        "link": "https://m.imdb.com/title/tt0120689/?ref_=chttp_t_27"
+    },
+    {
+        "title": "Spider-Man: Across the Spider-Verse",
+        "year": "2023",
+        "runtime": "2h 20m",
+        "rated": "PG",
+        "rating": 8.7,
+        "vote_count": "303K",
+        "link": "https://m.imdb.com/title/tt9362722/?ref_=chttp_t_28"
+    },
+    {
+        "title": "Star Wars: Episode IV - A New Hope",
+        "year": "1977",
+        "runtime": "2h 1m",
+        "rated": "PG",
+        "rating": 8.6,
+        "vote_count": "1.4M",
+        "link": "https://m.imdb.com/title/tt0076759/?ref_=chttp_t_29"
+    },
+    {
+        "title": "Terminator 2: Judgment Day",
+        "year": "1991",
+        "runtime": "2h 17m",
+        "rated": "R",
+        "rating": 8.6,
+        "vote_count": "1.2M",
+        "link": "https://m.imdb.com/title/tt0103064/?ref_=chttp_t_30"
+    },
+    {
+        "title": "Back to the Future",
+        "year": "1985",
+        "runtime": "1h 56m",
+        "rated": "PG",
+        "rating": 8.5,
+        "vote_count": "1.3M",
+        "link": "https://m.imdb.com/title/tt0088763/?ref_=chttp_t_31"
+    },
+    {
+        "title": "Spirited Away",
+        "year": "2001",
+        "runtime": "2h 5m",
+        "rated": "PG",
+        "rating": 8.6,
+        "vote_count": "820K",
+        "link": "https://m.imdb.com/title/tt0245429/?ref_=chttp_t_32"
+    },
+    {
+        "title": "The Pianist",
+        "year": "2002",
+        "runtime": "2h 30m",
+        "rated": "R",
+        "rating": 8.5,
+        "vote_count": "888K",
+        "link": "https://m.imdb.com/title/tt0253474/?ref_=chttp_t_33"
+    },
+    {
+        "title": "Psycho",
+        "year": "1960",
+        "runtime": "1h 49m",
+        "rated": "R",
+        "rating": 8.5,
+        "vote_count": "705K",
+        "link": "https://m.imdb.com/title/tt0054215/?ref_=chttp_t_34"
+    },
+    {
+        "title": "Parasite",
+        "year": "2019",
+        "runtime": "2h 12m",
+        "rated": "R",
+        "rating": 8.5,
+        "vote_count": "906K",
+        "link": "https://m.imdb.com/title/tt6751668/?ref_=chttp_t_35"
+    },
+    {
+        "title": "Gladiator",
+        "year": "2000",
+        "runtime": "2h 35m",
+        "rated": "R",
+        "rating": 8.5,
+        "vote_count": "1.6M",
+        "link": "https://m.imdb.com/title/tt0172495/?ref_=chttp_t_36"
+    },
+    {
+        "title": "The Lion King",
+        "year": "1994",
+        "runtime": "1h 28m",
+        "rated": "G",
+        "rating": 8.5,
+        "vote_count": "1.1M",
+        "link": "https://m.imdb.com/title/tt0110357/?ref_=chttp_t_37"
+    },
+    {
+        "title": "L\u00e9on: The Professional",
+        "year": "1994",
+        "runtime": "1h 50m",
+        "rated": "R",
+        "rating": 8.5,
+        "vote_count": "1.2M",
+        "link": "https://m.imdb.com/title/tt0110413/?ref_=chttp_t_38"
+    },
+    {
+        "title": "American History X",
+        "year": "1998",
+        "runtime": "1h 59m",
+        "rated": "R",
+        "rating": 8.5,
+        "vote_count": "1.2M",
+        "link": "https://m.imdb.com/title/tt0120586/?ref_=chttp_t_39"
+    },
+    {
+        "title": "The Departed",
+        "year": "2006",
+        "runtime": "2h 31m",
+        "rated": "R",
+        "rating": 8.5,
+        "vote_count": "1.4M",
+        "link": "https://m.imdb.com/title/tt0407887/?ref_=chttp_t_40"
+    },
+    {
+        "title": "Whiplash",
+        "year": "2014",
+        "runtime": "1h 46m",
+        "rated": "R",
+        "rating": 8.5,
+        "vote_count": "948K",
+        "link": "https://m.imdb.com/title/tt2582802/?ref_=chttp_t_41"
+    },
+    {
+        "title": "The Prestige",
+        "year": "2006",
+        "runtime": "2h 10m",
+        "rated": "PG-13",
+        "rating": 8.5,
+        "vote_count": "1.4M",
+        "link": "https://m.imdb.com/title/tt0482571/?ref_=chttp_t_42"
+    },
+    {
+        "title": "The Usual Suspects",
+        "year": "1995",
+        "runtime": "1h 46m",
+        "rated": "R",
+        "rating": 8.5,
+        "vote_count": "1.1M",
+        "link": "https://m.imdb.com/title/tt0114814/?ref_=chttp_t_43"
+    },
+    {
+        "title": "Grave of the Fireflies",
+        "year": "1988",
+        "runtime": "1h 29m",
+        "rated": "Not Rated",
+        "rating": 8.5,
+        "vote_count": "300K",
+        "link": "https://m.imdb.com/title/tt0095327/?ref_=chttp_t_44"
+    },
+    {
+        "title": "Harakiri",
+        "year": "1962",
+        "runtime": "2h 13m",
+        "rated": "Not Rated",
+        "rating": 8.6,
+        "vote_count": "65K",
+        "link": "https://m.imdb.com/title/tt0056058/?ref_=chttp_t_45"
+    },
+    {
+        "title": "Casablanca",
+        "year": "1942",
+        "runtime": "1h 42m",
+        "rated": "PG",
+        "rating": 8.5,
+        "vote_count": "596K",
+        "link": "https://m.imdb.com/title/tt0034583/?ref_=chttp_t_46"
+    },
+    {
+        "title": "The Intouchables",
+        "year": "2011",
+        "runtime": "1h 52m",
+        "rated": "R",
+        "rating": 8.5,
+        "vote_count": "907K",
+        "link": "https://m.imdb.com/title/tt1675434/?ref_=chttp_t_47"
+    },
+    {
+        "title": "Modern Times",
+        "year": "1936",
+        "runtime": "1h 27m",
+        "rated": "G",
+        "rating": 8.5,
+        "vote_count": "255K",
+        "link": "https://m.imdb.com/title/tt0027977/?ref_=chttp_t_48"
+    },
+    {
+        "title": "Cinema Paradiso",
+        "year": "1988",
+        "runtime": "2h 35m",
+        "rated": "PG",
+        "rating": 8.5,
+        "vote_count": "276K",
+        "link": "https://m.imdb.com/title/tt0095765/?ref_=chttp_t_49"
+    },
+    {
+        "title": "Once Upon a Time in the West",
+        "year": "1968",
+        "runtime": "2h 46m",
+        "rated": "PG-13",
+        "rating": 8.5,
+        "vote_count": "344K",
+        "link": "https://m.imdb.com/title/tt0064116/?ref_=chttp_t_50"
+    },
+    {
+        "title": "Rear Window",
+        "year": "1954",
+        "runtime": "1h 52m",
+        "rated": "PG",
+        "rating": 8.5,
+        "vote_count": "513K",
+        "link": "https://m.imdb.com/title/tt0047396/?ref_=chttp_t_51"
+    },
+    {
+        "title": "Alien",
+        "year": "1979",
+        "runtime": "1h 57m",
+        "rated": "R",
+        "rating": 8.5,
+        "vote_count": "929K",
+        "link": "https://m.imdb.com/title/tt0078748/?ref_=chttp_t_52"
+    },
+    {
+        "title": "City Lights",
+        "year": "1931",
+        "runtime": "1h 27m",
+        "rated": "G",
+        "rating": 8.5,
+        "vote_count": "193K",
+        "link": "https://m.imdb.com/title/tt0021749/?ref_=chttp_t_53"
+    },
+    {
+        "title": "Apocalypse Now",
+        "year": "1979",
+        "runtime": "2h 27m",
+        "rated": "R",
+        "rating": 8.4,
+        "vote_count": "697K",
+        "link": "https://m.imdb.com/title/tt0078788/?ref_=chttp_t_54"
+    },
+    {
+        "title": "Django Unchained",
+        "year": "2012",
+        "runtime": "2h 45m",
+        "rated": "R",
+        "rating": 8.5,
+        "vote_count": "1.7M",
+        "link": "https://m.imdb.com/title/tt1853728/?ref_=chttp_t_55"
+    },
+    {
+        "title": "Memento",
+        "year": "2000",
+        "runtime": "1h 53m",
+        "rated": "R",
+        "rating": 8.4,
+        "vote_count": "1.3M",
+        "link": "https://m.imdb.com/title/tt0209144/?ref_=chttp_t_56"
+    },
+    {
+        "title": "Raiders of the Lost Ark",
+        "year": "1981",
+        "runtime": "1h 55m",
+        "rated": "PG",
+        "rating": 8.4,
+        "vote_count": "1M",
+        "link": "https://m.imdb.com/title/tt0082971/?ref_=chttp_t_57"
+    },
+    {
+        "title": "WALL\u00b7E",
+        "year": "2008",
+        "runtime": "1h 38m",
+        "rated": "G",
+        "rating": 8.4,
+        "vote_count": "1.2M",
+        "link": "https://m.imdb.com/title/tt0910970/?ref_=chttp_t_58"
+    },
+    {
+        "title": "The Lives of Others",
+        "year": "2006",
+        "runtime": "2h 17m",
+        "rated": "R",
+        "rating": 8.4,
+        "vote_count": "404K",
+        "link": "https://m.imdb.com/title/tt0405094/?ref_=chttp_t_59"
+    },
+    {
+        "title": "Oppenheimer",
+        "year": "2023",
+        "runtime": "3h",
+        "rated": "R",
+        "rating": 8.5,
+        "vote_count": "523K",
+        "link": "https://m.imdb.com/title/tt15398776/?ref_=chttp_t_60"
+    },
+    {
+        "title": "Sunset Blvd.",
+        "year": "1950",
+        "runtime": "1h 50m",
+        "rated": "Passed",
+        "rating": 8.4,
+        "vote_count": "232K",
+        "link": "https://m.imdb.com/title/tt0043014/?ref_=chttp_t_61"
+    },
+    {
+        "title": "Paths of Glory",
+        "year": "1957",
+        "runtime": "1h 28m",
+        "rated": "Approved",
+        "rating": 8.4,
+        "vote_count": "208K",
+        "link": "https://m.imdb.com/title/tt0050825/?ref_=chttp_t_62"
+    },
+    {
+        "title": "Avengers: Infinity War",
+        "year": "2018",
+        "runtime": "2h 29m",
+        "rated": "PG-13",
+        "rating": 8.4,
+        "vote_count": "1.2M",
+        "link": "https://m.imdb.com/title/tt4154756/?ref_=chttp_t_63"
+    },
+    {
+        "title": "The Shining",
+        "year": "1980",
+        "runtime": "2h 26m",
+        "rated": "R",
+        "rating": 8.4,
+        "vote_count": "1.1M",
+        "link": "https://m.imdb.com/title/tt0081505/?ref_=chttp_t_64"
+    },
+    {
+        "title": "Spider-Man: Into the Spider-Verse",
+        "year": "2018",
+        "runtime": "1h 57m",
+        "rated": "PG",
+        "rating": 8.4,
+        "vote_count": "642K",
+        "link": "https://m.imdb.com/title/tt4633694/?ref_=chttp_t_65"
+    },
+    {
+        "title": "The Great Dictator",
+        "year": "1940",
+        "runtime": "2h 5m",
+        "rated": "G",
+        "rating": 8.4,
+        "vote_count": "234K",
+        "link": "https://m.imdb.com/title/tt0032553/?ref_=chttp_t_66"
+    },
+    {
+        "title": "Witness for the Prosecution",
+        "year": "1957",
+        "runtime": "1h 56m",
+        "rated": "Approved",
+        "rating": 8.4,
+        "vote_count": "134K",
+        "link": "https://m.imdb.com/title/tt0051201/?ref_=chttp_t_67"
+    },
+    {
+        "title": "Aliens",
+        "year": "1986",
+        "runtime": "2h 17m",
+        "rated": "R",
+        "rating": 8.4,
+        "vote_count": "749K",
+        "link": "https://m.imdb.com/title/tt0090605/?ref_=chttp_t_68"
+    },
+    {
+        "title": "Inglourious Basterds",
+        "year": "2009",
+        "runtime": "2h 33m",
+        "rated": "R",
+        "rating": 8.4,
+        "vote_count": "1.5M",
+        "link": "https://m.imdb.com/title/tt0361748/?ref_=chttp_t_69"
+    },
+    {
+        "title": "The Dark Knight Rises",
+        "year": "2012",
+        "runtime": "2h 44m",
+        "rated": "PG-13",
+        "rating": 8.4,
+        "vote_count": "1.8M",
+        "link": "https://m.imdb.com/title/tt1345836/?ref_=chttp_t_70"
+    },
+    {
+        "title": "American Beauty",
+        "year": "1999",
+        "runtime": "2h 2m",
+        "rated": "R",
+        "rating": 8.3,
+        "vote_count": "1.2M",
+        "link": "https://m.imdb.com/title/tt0169547/?ref_=chttp_t_71"
+    },
+    {
+        "title": "Dr",
+        "year": "1964",
+        "runtime": "1h 35m",
+        "rated": "PG",
+        "rating": 8.4,
+        "vote_count": "510K",
+        "link": "https://m.imdb.com/title/tt0057012/?ref_=chttp_t_72"
+    },
+    {
+        "title": "Oldboy",
+        "year": "2003",
+        "runtime": "2h",
+        "rated": "R",
+        "rating": 8.4,
+        "vote_count": "618K",
+        "link": "https://m.imdb.com/title/tt0364569/?ref_=chttp_t_73"
+    },
+    {
+        "title": "Coco",
+        "year": "2017",
+        "runtime": "1h 45m",
+        "rated": "PG",
+        "rating": 8.4,
+        "vote_count": "566K",
+        "link": "https://m.imdb.com/title/tt2380307/?ref_=chttp_t_74"
+    },
+    {
+        "title": "Amadeus",
+        "year": "1984",
+        "runtime": "2h 40m",
+        "rated": "PG",
+        "rating": 8.4,
+        "vote_count": "420K",
+        "link": "https://m.imdb.com/title/tt0086879/?ref_=chttp_t_75"
+    },
+    {
+        "title": "Toy Story",
+        "year": "1995",
+        "runtime": "1h 21m",
+        "rated": "G",
+        "rating": 8.3,
+        "vote_count": "1M",
+        "link": "https://m.imdb.com/title/tt0114709/?ref_=chttp_t_76"
+    },
+    {
+        "title": "Das Boot",
+        "year": "1981",
+        "runtime": "2h 29m",
+        "rated": "N/A",
+        "rating": 8.4,
+        "vote_count": "260K",
+        "link": "https://m.imdb.com/title/tt0082096/?ref_=chttp_t_77"
+    },
+    {
+        "title": "Braveheart",
+        "year": "1995",
+        "runtime": "2h 58m",
+        "rated": "R",
+        "rating": 8.3,
+        "vote_count": "1.1M",
+        "link": "https://m.imdb.com/title/tt0112573/?ref_=chttp_t_78"
+    },
+    {
+        "title": "Avengers: Endgame",
+        "year": "2019",
+        "runtime": "3h 1m",
+        "rated": "PG-13",
+        "rating": 8.4,
+        "vote_count": "1.2M",
+        "link": "https://m.imdb.com/title/tt4154796/?ref_=chttp_t_79"
+    },
+    {
+        "title": "Joker",
+        "year": "2019",
+        "runtime": "2h 2m",
+        "rated": "R",
+        "rating": 8.4,
+        "vote_count": "1.4M",
+        "link": "https://m.imdb.com/title/tt7286456/?ref_=chttp_t_80"
+    },
+    {
+        "title": "Princess Mononoke",
+        "year": "1997",
+        "runtime": "2h 14m",
+        "rated": "PG-13",
+        "rating": 8.3,
+        "vote_count": "420K",
+        "link": "https://m.imdb.com/title/tt0119698/?ref_=chttp_t_81"
+    },
+    {
+        "title": "Good Will Hunting",
+        "year": "1997",
+        "runtime": "2h 6m",
+        "rated": "R",
+        "rating": 8.3,
+        "vote_count": "1M",
+        "link": "https://m.imdb.com/title/tt0119217/?ref_=chttp_t_82"
+    },
+    {
+        "title": "Your Name.",
+        "year": "2016",
+        "runtime": "1h 46m",
+        "rated": "TV-PG",
+        "rating": 8.4,
+        "vote_count": "305K",
+        "link": "https://m.imdb.com/title/tt5311514/?ref_=chttp_t_83"
+    },
+    {
+        "title": "Once Upon a Time in America",
+        "year": "1984",
+        "runtime": "3h 49m",
+        "rated": "R",
+        "rating": 8.3,
+        "vote_count": "370K",
+        "link": "https://m.imdb.com/title/tt0087843/?ref_=chttp_t_84"
+    },
+    {
+        "title": "High and Low",
+        "year": "1963",
+        "runtime": "2h 23m",
+        "rated": "Not Rated",
+        "rating": 8.4,
+        "vote_count": "51K",
+        "link": "https://m.imdb.com/title/tt0057565/?ref_=chttp_t_85"
+    },
+    {
+        "title": "3 Idiots",
+        "year": "2009",
+        "runtime": "2h 50m",
+        "rated": "PG-13",
+        "rating": 8.4,
+        "vote_count": "422K",
+        "link": "https://m.imdb.com/title/tt1187043/?ref_=chttp_t_86"
+    },
+    {
+        "title": "Singin' in the Rain",
+        "year": "1952",
+        "runtime": "1h 43m",
+        "rated": "G",
+        "rating": 8.3,
+        "vote_count": "255K",
+        "link": "https://m.imdb.com/title/tt0045152/?ref_=chttp_t_87"
+    },
+    {
+        "title": "Capernaum",
+        "year": "2018",
+        "runtime": "2h 6m",
+        "rated": "R",
+        "rating": 8.4,
+        "vote_count": "101K",
+        "link": "https://m.imdb.com/title/tt8267604/?ref_=chttp_t_88"
+    },
+    {
+        "title": "Requiem for a Dream",
+        "year": "2000",
+        "runtime": "1h 42m",
+        "rated": "Unrated",
+        "rating": 8.3,
+        "vote_count": "882K",
+        "link": "https://m.imdb.com/title/tt0180093/?ref_=chttp_t_89"
+    },
+    {
+        "title": "Come and See",
+        "year": "1985",
+        "runtime": "2h 22m",
+        "rated": "Not Rated",
+        "rating": 8.4,
+        "vote_count": "92K",
+        "link": "https://m.imdb.com/title/tt0091251/?ref_=chttp_t_90"
+    },
+    {
+        "title": "Toy Story 3",
+        "year": "2010",
+        "runtime": "1h 43m",
+        "rated": "G",
+        "rating": 8.3,
+        "vote_count": "876K",
+        "link": "https://m.imdb.com/title/tt0435761/?ref_=chttp_t_91"
+    },
+    {
+        "title": "Star Wars: Episode VI - Return of the Jedi",
+        "year": "1983",
+        "runtime": "2h 11m",
+        "rated": "PG",
+        "rating": 8.3,
+        "vote_count": "1.1M",
+        "link": "https://m.imdb.com/title/tt0086190/?ref_=chttp_t_92"
+    },
+    {
+        "title": "Eternal Sunshine of the Spotless Mind",
+        "year": "2004",
+        "runtime": "1h 48m",
+        "rated": "R",
+        "rating": 8.3,
+        "vote_count": "1.1M",
+        "link": "https://m.imdb.com/title/tt0338013/?ref_=chttp_t_93"
+    },
+    {
+        "title": "2001: A Space Odyssey",
+        "year": "1968",
+        "runtime": "2h 29m",
+        "rated": "G",
+        "rating": 8.3,
+        "vote_count": "704K",
+        "link": "https://m.imdb.com/title/tt0062622/?ref_=chttp_t_94"
+    },
+    {
+        "title": "The Hunt",
+        "year": "2012",
+        "runtime": "1h 55m",
+        "rated": "R",
+        "rating": 8.3,
+        "vote_count": "354K",
+        "link": "https://m.imdb.com/title/tt2106476/?ref_=chttp_t_95"
+    },
+    {
+        "title": "Reservoir Dogs",
+        "year": "1992",
+        "runtime": "1h 39m",
+        "rated": "R",
+        "rating": 8.3,
+        "vote_count": "1.1M",
+        "link": "https://m.imdb.com/title/tt0105236/?ref_=chttp_t_96"
+    },
+    {
+        "title": "Ikiru",
+        "year": "1952",
+        "runtime": "2h 23m",
+        "rated": "Not Rated",
+        "rating": 8.3,
+        "vote_count": "85K",
+        "link": "https://m.imdb.com/title/tt0044741/?ref_=chttp_t_97"
+    },
+    {
+        "title": "Lawrence of Arabia",
+        "year": "1962",
+        "runtime": "3h 38m",
+        "rated": "Approved",
+        "rating": 8.3,
+        "vote_count": "308K",
+        "link": "https://m.imdb.com/title/tt0056172/?ref_=chttp_t_98"
+    },
+    {
+        "title": "The Apartment",
+        "year": "1960",
+        "runtime": "2h 5m",
+        "rated": "Approved",
+        "rating": 8.3,
+        "vote_count": "192K",
+        "link": "https://m.imdb.com/title/tt0053604/?ref_=chttp_t_99"
+    },
+    {
+        "title": "Citizen Kane",
+        "year": "1941",
+        "runtime": "1h 59m",
+        "rated": "PG",
+        "rating": 8.3,
+        "vote_count": "459K",
+        "link": "https://m.imdb.com/title/tt0033467/?ref_=chttp_t_100"
+    },
+    {
+        "title": "M",
+        "year": "1931",
+        "runtime": "1h 39m",
+        "rated": "Passed",
+        "rating": 8.3,
+        "vote_count": "166K",
+        "link": "https://m.imdb.com/title/tt0022100/?ref_=chttp_t_101"
+    },
+    {
+        "title": "North by Northwest",
+        "year": "1959",
+        "runtime": "2h 16m",
+        "rated": "Approved",
+        "rating": 8.3,
+        "vote_count": "341K",
+        "link": "https://m.imdb.com/title/tt0053125/?ref_=chttp_t_102"
+    },
+    {
+        "title": "Vertigo",
+        "year": "1958",
+        "runtime": "2h 8m",
+        "rated": "PG",
+        "rating": 8.3,
+        "vote_count": "420K",
+        "link": "https://m.imdb.com/title/tt0052357/?ref_=chttp_t_103"
+    },
+    {
+        "title": "Double Indemnity",
+        "year": "1944",
+        "runtime": "1h 47m",
+        "rated": "Passed",
+        "rating": 8.3,
+        "vote_count": "165K",
+        "link": "https://m.imdb.com/title/tt0036775/?ref_=chttp_t_104"
+    },
+    {
+        "title": "Am\u00e9lie",
+        "year": "2001",
+        "runtime": "2h 2m",
+        "rated": "R",
+        "rating": 8.3,
+        "vote_count": "783K",
+        "link": "https://m.imdb.com/title/tt0211915/?ref_=chttp_t_105"
+    },
+    {
+        "title": "Scarface",
+        "year": "1983",
+        "runtime": "2h 50m",
+        "rated": "18+",
+        "rating": 8.3,
+        "vote_count": "894K",
+        "link": "https://m.imdb.com/title/tt0086250/?ref_=chttp_t_106"
+    },
+    {
+        "title": "Full Metal Jacket",
+        "year": "1987",
+        "runtime": "1h 56m",
+        "rated": "R",
+        "rating": 8.3,
+        "vote_count": "776K",
+        "link": "https://m.imdb.com/title/tt0093058/?ref_=chttp_t_107"
+    },
+    {
+        "title": "Incendies",
+        "year": "2010",
+        "runtime": "2h 11m",
+        "rated": "R",
+        "rating": 8.3,
+        "vote_count": "192K",
+        "link": "https://m.imdb.com/title/tt1255953/?ref_=chttp_t_108"
+    },
+    {
+        "title": "A Clockwork Orange",
+        "year": "1971",
+        "runtime": "2h 16m",
+        "rated": "X",
+        "rating": 8.3,
+        "vote_count": "866K",
+        "link": "https://m.imdb.com/title/tt0066921/?ref_=chttp_t_109"
+    },
+    {
+        "title": "Heat",
+        "year": "1995",
+        "runtime": "2h 50m",
+        "rated": "R",
+        "rating": 8.3,
+        "vote_count": "701K",
+        "link": "https://m.imdb.com/title/tt0113277/?ref_=chttp_t_110"
+    },
+    {
+        "title": "Up",
+        "year": "2009",
+        "runtime": "1h 36m",
+        "rated": "PG",
+        "rating": 8.3,
+        "vote_count": "1.1M",
+        "link": "https://m.imdb.com/title/tt1049413/?ref_=chttp_t_111"
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "year": "1962",
+        "runtime": "2h 9m",
+        "rated": "Approved",
+        "rating": 8.3,
+        "vote_count": "328K",
+        "link": "https://m.imdb.com/title/tt0056592/?ref_=chttp_t_112"
+    },
+    {
+        "title": "Hamilton",
+        "year": "2020",
+        "runtime": "2h 40m",
+        "rated": "PG-13",
+        "rating": 8.3,
+        "vote_count": "108K",
+        "link": "https://m.imdb.com/title/tt8503618/?ref_=chttp_t_113"
+    },
+    {
+        "title": "The Sting",
+        "year": "1973",
+        "runtime": "2h 9m",
+        "rated": "PG",
+        "rating": 8.3,
+        "vote_count": "275K",
+        "link": "https://m.imdb.com/title/tt0070735/?ref_=chttp_t_114"
+    },
+    {
+        "title": "A Separation",
+        "year": "2011",
+        "runtime": "2h 3m",
+        "rated": "PG-13",
+        "rating": 8.3,
+        "vote_count": "255K",
+        "link": "https://m.imdb.com/title/tt1832382/?ref_=chttp_t_115"
+    },
+    {
+        "title": "Indiana Jones and the Last Crusade",
+        "year": "1989",
+        "runtime": "2h 7m",
+        "rated": "PG-13",
+        "rating": 8.2,
+        "vote_count": "797K",
+        "link": "https://m.imdb.com/title/tt0097576/?ref_=chttp_t_116"
+    },
+    {
+        "title": "Metropolis",
+        "year": "1927",
+        "runtime": "2h 33m",
+        "rated": "Not Rated",
+        "rating": 8.3,
+        "vote_count": "182K",
+        "link": "https://m.imdb.com/title/tt0017136/?ref_=chttp_t_117"
+    },
+    {
+        "title": "Die Hard",
+        "year": "1988",
+        "runtime": "2h 12m",
+        "rated": "R",
+        "rating": 8.2,
+        "vote_count": "919K",
+        "link": "https://m.imdb.com/title/tt0095016/?ref_=chttp_t_118"
+    },
+    {
+        "title": "Like Stars on Earth",
+        "year": "2007",
+        "runtime": "2h 42m",
+        "rated": "PG",
+        "rating": 8.3,
+        "vote_count": "203K",
+        "link": "https://m.imdb.com/title/tt0986264/?ref_=chttp_t_119"
+    },
+    {
+        "title": "Snatch",
+        "year": "2000",
+        "runtime": "1h 42m",
+        "rated": "R",
+        "rating": 8.2,
+        "vote_count": "893K",
+        "link": "https://m.imdb.com/title/tt0208092/?ref_=chttp_t_120"
+    },
+    {
+        "title": "Bicycle Thieves",
+        "year": "1948",
+        "runtime": "1h 29m",
+        "rated": "Not Rated",
+        "rating": 8.3,
+        "vote_count": "172K",
+        "link": "https://m.imdb.com/title/tt0040522/?ref_=chttp_t_121"
+    },
+    {
+        "title": "L.A",
+        "year": "1997",
+        "runtime": "2h 18m",
+        "rated": "R",
+        "rating": 8.2,
+        "vote_count": "605K",
+        "link": "https://m.imdb.com/title/tt0119488/?ref_=chttp_t_122"
+    },
+    {
+        "title": "Taxi Driver",
+        "year": "1976",
+        "runtime": "1h 54m",
+        "rated": "R",
+        "rating": 8.2,
+        "vote_count": "896K",
+        "link": "https://m.imdb.com/title/tt0075314/?ref_=chttp_t_123"
+    },
+    {
+        "title": "1917",
+        "year": "2019",
+        "runtime": "1h 59m",
+        "rated": "R",
+        "rating": 8.2,
+        "vote_count": "651K",
+        "link": "https://m.imdb.com/title/tt8579674/?ref_=chttp_t_124"
+    },
+    {
+        "title": "Downfall",
+        "year": "2004",
+        "runtime": "2h 36m",
+        "rated": "R",
+        "rating": 8.2,
+        "vote_count": "369K",
+        "link": "https://m.imdb.com/title/tt0363163/?ref_=chttp_t_125"
+    },
+    {
+        "title": "Dangal",
+        "year": "2016",
+        "runtime": "2h 41m",
+        "rated": "Not Rated",
+        "rating": 8.3,
+        "vote_count": "204K",
+        "link": "https://m.imdb.com/title/tt5074352/?ref_=chttp_t_126"
+    },
+    {
+        "title": "For a Few Dollars More",
+        "year": "1965",
+        "runtime": "2h 12m",
+        "rated": "R",
+        "rating": 8.2,
+        "vote_count": "269K",
+        "link": "https://m.imdb.com/title/tt0059578/?ref_=chttp_t_127"
+    },
+    {
+        "title": "Batman Begins",
+        "year": "2005",
+        "runtime": "2h 20m",
+        "rated": "PG-13",
+        "rating": 8.2,
+        "vote_count": "1.5M",
+        "link": "https://m.imdb.com/title/tt0372784/?ref_=chttp_t_128"
+    },
+    {
+        "title": "Top Gun: Maverick",
+        "year": "2022",
+        "runtime": "2h 10m",
+        "rated": "PG-13",
+        "rating": 8.3,
+        "vote_count": "643K",
+        "link": "https://m.imdb.com/title/tt1745960/?ref_=chttp_t_129"
+    },
+    {
+        "title": "Some Like It Hot",
+        "year": "1959",
+        "runtime": "2h 1m",
+        "rated": "Passed",
+        "rating": 8.2,
+        "vote_count": "279K",
+        "link": "https://m.imdb.com/title/tt0053291/?ref_=chttp_t_130"
+    },
+    {
+        "title": "The Kid",
+        "year": "1921",
+        "runtime": "1h 8m",
+        "rated": "Passed",
+        "rating": 8.2,
+        "vote_count": "132K",
+        "link": "https://m.imdb.com/title/tt0012349/?ref_=chttp_t_131"
+    },
+    {
+        "title": "The Wolf of Wall Street",
+        "year": "2013",
+        "runtime": "3h",
+        "rated": "R",
+        "rating": 8.2,
+        "vote_count": "1.5M",
+        "link": "https://m.imdb.com/title/tt0993846/?ref_=chttp_t_132"
+    },
+    {
+        "title": "The Father",
+        "year": "2020",
+        "runtime": "1h 37m",
+        "rated": "PG-13",
+        "rating": 8.2,
+        "vote_count": "182K",
+        "link": "https://m.imdb.com/title/tt10272386/?ref_=chttp_t_133"
+    },
+    {
+        "title": "Green Book",
+        "year": "2018",
+        "runtime": "2h 10m",
+        "rated": "PG-13",
+        "rating": 8.2,
+        "vote_count": "544K",
+        "link": "https://m.imdb.com/title/tt6966692/?ref_=chttp_t_134"
+    },
+    {
+        "title": "All About Eve",
+        "year": "1950",
+        "runtime": "2h 18m",
+        "rated": "Passed",
+        "rating": 8.2,
+        "vote_count": "137K",
+        "link": "https://m.imdb.com/title/tt0042192/?ref_=chttp_t_135"
+    },
+    {
+        "title": "Judgment at Nuremberg",
+        "year": "1961",
+        "runtime": "2h 59m",
+        "rated": "Approved",
+        "rating": 8.3,
+        "vote_count": "83K",
+        "link": "https://m.imdb.com/title/tt0055031/?ref_=chttp_t_136"
+    },
+    {
+        "title": "The Truman Show",
+        "year": "1998",
+        "runtime": "1h 43m",
+        "rated": "PG",
+        "rating": 8.2,
+        "vote_count": "1.2M",
+        "link": "https://m.imdb.com/title/tt0120382/?ref_=chttp_t_137"
+    },
+    {
+        "title": "There Will Be Blood",
+        "year": "2007",
+        "runtime": "2h 38m",
+        "rated": "R",
+        "rating": 8.2,
+        "vote_count": "626K",
+        "link": "https://m.imdb.com/title/tt0469494/?ref_=chttp_t_138"
+    },
+    {
+        "title": "Casino",
+        "year": "1995",
+        "runtime": "2h 58m",
+        "rated": "R",
+        "rating": 8.2,
+        "vote_count": "551K",
+        "link": "https://m.imdb.com/title/tt0112641/?ref_=chttp_t_139"
+    },
+    {
+        "title": "Shutter Island",
+        "year": "2010",
+        "runtime": "2h 18m",
+        "rated": "R",
+        "rating": 8.2,
+        "vote_count": "1.4M",
+        "link": "https://m.imdb.com/title/tt1130884/?ref_=chttp_t_140"
+    },
+    {
+        "title": "Ran",
+        "year": "1985",
+        "runtime": "2h 40m",
+        "rated": "R",
+        "rating": 8.2,
+        "vote_count": "133K",
+        "link": "https://m.imdb.com/title/tt0089881/?ref_=chttp_t_141"
+    },
+    {
+        "title": "Pan's Labyrinth",
+        "year": "2006",
+        "runtime": "1h 58m",
+        "rated": "R",
+        "rating": 8.2,
+        "vote_count": "693K",
+        "link": "https://m.imdb.com/title/tt0457430/?ref_=chttp_t_142"
+    },
+    {
+        "title": "Jurassic Park",
+        "year": "1993",
+        "runtime": "2h 7m",
+        "rated": "PG-13",
+        "rating": 8.2,
+        "vote_count": "1M",
+        "link": "https://m.imdb.com/title/tt0107290/?ref_=chttp_t_143"
+    },
+    {
+        "title": "The Sixth Sense",
+        "year": "1999",
+        "runtime": "1h 47m",
+        "rated": "PG-13",
+        "rating": 8.2,
+        "vote_count": "1M",
+        "link": "https://m.imdb.com/title/tt0167404/?ref_=chttp_t_144"
+    },
+    {
+        "title": "Unforgiven",
+        "year": "1992",
+        "runtime": "2h 10m",
+        "rated": "R",
+        "rating": 8.2,
+        "vote_count": "429K",
+        "link": "https://m.imdb.com/title/tt0105695/?ref_=chttp_t_145"
+    },
+    {
+        "title": "A Beautiful Mind",
+        "year": "2001",
+        "runtime": "2h 15m",
+        "rated": "PG-13",
+        "rating": 8.2,
+        "vote_count": "970K",
+        "link": "https://m.imdb.com/title/tt0268978/?ref_=chttp_t_146"
+    },
+    {
+        "title": "No Country for Old Men",
+        "year": "2007",
+        "runtime": "2h 2m",
+        "rated": "R",
+        "rating": 8.2,
+        "vote_count": "1M",
+        "link": "https://m.imdb.com/title/tt0477348/?ref_=chttp_t_147"
+    },
+    {
+        "title": "Yojimbo",
+        "year": "1961",
+        "runtime": "1h 50m",
+        "rated": "Not Rated",
+        "rating": 8.2,
+        "vote_count": "129K",
+        "link": "https://m.imdb.com/title/tt0055630/?ref_=chttp_t_148"
+    },
+    {
+        "title": "The Treasure of the Sierra Madre",
+        "year": "1948",
+        "runtime": "2h 6m",
+        "rated": "Passed",
+        "rating": 8.2,
+        "vote_count": "131K",
+        "link": "https://m.imdb.com/title/tt0040897/?ref_=chttp_t_149"
+    },
+    {
+        "title": "Kill Bill: Vol",
+        "year": "2003",
+        "runtime": "1h 51m",
+        "rated": "R",
+        "rating": 8.2,
+        "vote_count": "1.2M",
+        "link": "https://m.imdb.com/title/tt0266697/?ref_=chttp_t_150"
+    },
+    {
+        "title": "The Thing",
+        "year": "1982",
+        "runtime": "1h 49m",
+        "rated": "R",
+        "rating": 8.2,
+        "vote_count": "455K",
+        "link": "https://m.imdb.com/title/tt0084787/?ref_=chttp_t_151"
+    },
+    {
+        "title": "Monty Python and the Holy Grail",
+        "year": "1975",
+        "runtime": "1h 31m",
+        "rated": "PG",
+        "rating": 8.2,
+        "vote_count": "562K",
+        "link": "https://m.imdb.com/title/tt0071853/?ref_=chttp_t_152"
+    },
+    {
+        "title": "The Great Escape",
+        "year": "1963",
+        "runtime": "2h 52m",
+        "rated": "Approved",
+        "rating": 8.2,
+        "vote_count": "255K",
+        "link": "https://m.imdb.com/title/tt0057115/?ref_=chttp_t_153"
+    },
+    {
+        "title": "Finding Nemo",
+        "year": "2003",
+        "runtime": "1h 40m",
+        "rated": "G",
+        "rating": 8.2,
+        "vote_count": "1.1M",
+        "link": "https://m.imdb.com/title/tt0266543/?ref_=chttp_t_154"
+    },
+    {
+        "title": "Rashomon",
+        "year": "1950",
+        "runtime": "1h 28m",
+        "rated": "Not Rated",
+        "rating": 8.2,
+        "vote_count": "177K",
+        "link": "https://m.imdb.com/title/tt0042876/?ref_=chttp_t_155"
+    },
+    {
+        "title": "The Elephant Man",
+        "year": "1980",
+        "runtime": "2h 4m",
+        "rated": "PG",
+        "rating": 8.2,
+        "vote_count": "254K",
+        "link": "https://m.imdb.com/title/tt0080678/?ref_=chttp_t_156"
+    },
+    {
+        "title": "Chinatown",
+        "year": "1974",
+        "runtime": "2h 10m",
+        "rated": "R",
+        "rating": 8.2,
+        "vote_count": "343K",
+        "link": "https://m.imdb.com/title/tt0071315/?ref_=chttp_t_157"
+    },
+    {
+        "title": "Howl's Moving Castle",
+        "year": "2004",
+        "runtime": "1h 59m",
+        "rated": "PG",
+        "rating": 8.2,
+        "vote_count": "431K",
+        "link": "https://m.imdb.com/title/tt0347149/?ref_=chttp_t_158"
+    },
+    {
+        "title": "Dial M for Murder",
+        "year": "1954",
+        "runtime": "1h 45m",
+        "rated": "PG",
+        "rating": 8.2,
+        "vote_count": "185K",
+        "link": "https://m.imdb.com/title/tt0046912/?ref_=chttp_t_159"
+    },
+    {
+        "title": "Gone with the Wind",
+        "year": "1939",
+        "runtime": "3h 58m",
+        "rated": "Passed",
+        "rating": 8.2,
+        "vote_count": "329K",
+        "link": "https://m.imdb.com/title/tt0031381/?ref_=chttp_t_160"
+    },
+    {
+        "title": "V for Vendetta",
+        "year": "2005",
+        "runtime": "2h 12m",
+        "rated": "R",
+        "rating": 8.2,
+        "vote_count": "1.2M",
+        "link": "https://m.imdb.com/title/tt0434409/?ref_=chttp_t_161"
+    },
+    {
+        "title": "Prisoners",
+        "year": "2013",
+        "runtime": "2h 33m",
+        "rated": "R",
+        "rating": 8.1,
+        "vote_count": "781K",
+        "link": "https://m.imdb.com/title/tt1392214/?ref_=chttp_t_162"
+    },
+    {
+        "title": "Raging Bull",
+        "year": "1980",
+        "runtime": "2h 9m",
+        "rated": "R",
+        "rating": 8.1,
+        "vote_count": "373K",
+        "link": "https://m.imdb.com/title/tt0081398/?ref_=chttp_t_163"
+    },
+    {
+        "title": "Lock, Stock and Two Smoking Barrels",
+        "year": "1998",
+        "runtime": "1h 47m",
+        "rated": "R",
+        "rating": 8.1,
+        "vote_count": "607K",
+        "link": "https://m.imdb.com/title/tt0120735/?ref_=chttp_t_164"
+    },
+    {
+        "title": "The Secret in Their Eyes",
+        "year": "2009",
+        "runtime": "2h 9m",
+        "rated": "R",
+        "rating": 8.2,
+        "vote_count": "219K",
+        "link": "https://m.imdb.com/title/tt1305806/?ref_=chttp_t_165"
+    },
+    {
+        "title": "Inside Out",
+        "year": "2015",
+        "runtime": "1h 35m",
+        "rated": "PG",
+        "rating": 8.1,
+        "vote_count": "763K",
+        "link": "https://m.imdb.com/title/tt2096673/?ref_=chttp_t_166"
+    },
+    {
+        "title": "Spider-Man: No Way Home",
+        "year": "2021",
+        "runtime": "2h 28m",
+        "rated": "PG-13",
+        "rating": 8.2,
+        "vote_count": "846K",
+        "link": "https://m.imdb.com/title/tt10872600/?ref_=chttp_t_167"
+    },
+    {
+        "title": "Three Billboards Outside Ebbing, Missouri",
+        "year": "2017",
+        "runtime": "1h 55m",
+        "rated": "R",
+        "rating": 8.1,
+        "vote_count": "541K",
+        "link": "https://m.imdb.com/title/tt5027774/?ref_=chttp_t_168"
+    },
+    {
+        "title": "Trainspotting",
+        "year": "1996",
+        "runtime": "1h 33m",
+        "rated": "R",
+        "rating": 8.1,
+        "vote_count": "714K",
+        "link": "https://m.imdb.com/title/tt0117951/?ref_=chttp_t_169"
+    },
+    {
+        "title": "The Bridge on the River Kwai",
+        "year": "1957",
+        "runtime": "2h 41m",
+        "rated": "PG",
+        "rating": 8.1,
+        "vote_count": "230K",
+        "link": "https://m.imdb.com/title/tt0050212/?ref_=chttp_t_170"
+    },
+    {
+        "title": "Fargo",
+        "year": "1996",
+        "runtime": "1h 38m",
+        "rated": "R",
+        "rating": 8.1,
+        "vote_count": "709K",
+        "link": "https://m.imdb.com/title/tt0116282/?ref_=chttp_t_171"
+    },
+    {
+        "title": "Warrior",
+        "year": "2011",
+        "runtime": "2h 20m",
+        "rated": "PG-13",
+        "rating": 8.1,
+        "vote_count": "491K",
+        "link": "https://m.imdb.com/title/tt1291584/?ref_=chttp_t_172"
+    },
+    {
+        "title": "Catch Me If You Can",
+        "year": "2002",
+        "runtime": "2h 21m",
+        "rated": "PG-13",
+        "rating": 8.1,
+        "vote_count": "1.1M",
+        "link": "https://m.imdb.com/title/tt0264464/?ref_=chttp_t_173"
+    },
+    {
+        "title": "Gran Torino",
+        "year": "2008",
+        "runtime": "1h 56m",
+        "rated": "R",
+        "rating": 8.1,
+        "vote_count": "803K",
+        "link": "https://m.imdb.com/title/tt1205489/?ref_=chttp_t_174"
+    },
+    {
+        "title": "Klaus",
+        "year": "2019",
+        "runtime": "1h 36m",
+        "rated": "PG",
+        "rating": 8.2,
+        "vote_count": "175K",
+        "link": "https://m.imdb.com/title/tt4729430/?ref_=chttp_t_175"
+    },
+    {
+        "title": "My Neighbor Totoro",
+        "year": "1988",
+        "runtime": "1h 26m",
+        "rated": "G",
+        "rating": 8.1,
+        "vote_count": "366K",
+        "link": "https://m.imdb.com/title/tt0096283/?ref_=chttp_t_176"
+    },
+    {
+        "title": "Million Dollar Baby",
+        "year": "2004",
+        "runtime": "2h 12m",
+        "rated": "PG-13",
+        "rating": 8.1,
+        "vote_count": "712K",
+        "link": "https://m.imdb.com/title/tt0405159/?ref_=chttp_t_177"
+    },
+    {
+        "title": "Harry Potter and the Deathly Hallows: Part 2",
+        "year": "2011",
+        "runtime": "2h 10m",
+        "rated": "PG-13",
+        "rating": 8.1,
+        "vote_count": "926K",
+        "link": "https://m.imdb.com/title/tt1201607/?ref_=chttp_t_178"
+    },
+    {
+        "title": "Children of Heaven",
+        "year": "1997",
+        "runtime": "1h 29m",
+        "rated": "PG",
+        "rating": 8.2,
+        "vote_count": "79K",
+        "link": "https://m.imdb.com/title/tt0118849/?ref_=chttp_t_179"
+    },
+    {
+        "title": "Blade Runner",
+        "year": "1982",
+        "runtime": "1h 57m",
+        "rated": "R",
+        "rating": 8.1,
+        "vote_count": "807K",
+        "link": "https://m.imdb.com/title/tt0083658/?ref_=chttp_t_180"
+    },
+    {
+        "title": "12 Years a Slave",
+        "year": "2013",
+        "runtime": "2h 14m",
+        "rated": "R",
+        "rating": 8.1,
+        "vote_count": "730K",
+        "link": "https://m.imdb.com/title/tt2024544/?ref_=chttp_t_181"
+    },
+    {
+        "title": "Before Sunrise",
+        "year": "1995",
+        "runtime": "1h 41m",
+        "rated": "R",
+        "rating": 8.1,
+        "vote_count": "331K",
+        "link": "https://m.imdb.com/title/tt0112471/?ref_=chttp_t_182"
+    },
+    {
+        "title": "The Grand Budapest Hotel",
+        "year": "2014",
+        "runtime": "1h 39m",
+        "rated": "R",
+        "rating": 8.1,
+        "vote_count": "867K",
+        "link": "https://m.imdb.com/title/tt2278388/?ref_=chttp_t_183"
+    },
+    {
+        "title": "Ben-Hur",
+        "year": "1959",
+        "runtime": "3h 32m",
+        "rated": "G",
+        "rating": 8.1,
+        "vote_count": "249K",
+        "link": "https://m.imdb.com/title/tt0052618/?ref_=chttp_t_184"
+    },
+    {
+        "title": "The Gold Rush",
+        "year": "1925",
+        "runtime": "1h 35m",
+        "rated": "Passed",
+        "rating": 8.1,
+        "vote_count": "117K",
+        "link": "https://m.imdb.com/title/tt0015864/?ref_=chttp_t_185"
+    },
+    {
+        "title": "Gone Girl",
+        "year": "2014",
+        "runtime": "2h 29m",
+        "rated": "R",
+        "rating": 8.1,
+        "vote_count": "1M",
+        "link": "https://m.imdb.com/title/tt2267998/?ref_=chttp_t_186"
+    },
+    {
+        "title": "Barry Lyndon",
+        "year": "1975",
+        "runtime": "3h 5m",
+        "rated": "PG",
+        "rating": 8.1,
+        "vote_count": "179K",
+        "link": "https://m.imdb.com/title/tt0072684/?ref_=chttp_t_187"
+    },
+    {
+        "title": "Hacksaw Ridge",
+        "year": "2016",
+        "runtime": "2h 19m",
+        "rated": "R",
+        "rating": 8.1,
+        "vote_count": "575K",
+        "link": "https://m.imdb.com/title/tt2119532/?ref_=chttp_t_188"
+    },
+    {
+        "title": "In the Name of the Father",
+        "year": "1993",
+        "runtime": "2h 13m",
+        "rated": "R",
+        "rating": 8.1,
+        "vote_count": "184K",
+        "link": "https://m.imdb.com/title/tt0107207/?ref_=chttp_t_189"
+    },
+    {
+        "title": "On the Waterfront",
+        "year": "1954",
+        "runtime": "1h 48m",
+        "rated": "Approved",
+        "rating": 8.1,
+        "vote_count": "162K",
+        "link": "https://m.imdb.com/title/tt0047296/?ref_=chttp_t_190"
+    },
+    {
+        "title": "Memories of Murder",
+        "year": "2003",
+        "runtime": "2h 12m",
+        "rated": "Not Rated",
+        "rating": 8.1,
+        "vote_count": "207K",
+        "link": "https://m.imdb.com/title/tt0353969/?ref_=chttp_t_191"
+    },
+    {
+        "title": "The General",
+        "year": "1926",
+        "runtime": "1h 18m",
+        "rated": "Passed",
+        "rating": 8.1,
+        "vote_count": "96K",
+        "link": "https://m.imdb.com/title/tt0017925/?ref_=chttp_t_192"
+    },
+    {
+        "title": "The Deer Hunter",
+        "year": "1978",
+        "runtime": "3h 3m",
+        "rated": "R",
+        "rating": 8.1,
+        "vote_count": "355K",
+        "link": "https://m.imdb.com/title/tt0077416/?ref_=chttp_t_193"
+    },
+    {
+        "title": "Wild Strawberries",
+        "year": "1957",
+        "runtime": "1h 31m",
+        "rated": "Not Rated",
+        "rating": 8.1,
+        "vote_count": "113K",
+        "link": "https://m.imdb.com/title/tt0050986/?ref_=chttp_t_194"
+    },
+    {
+        "title": "Wild Tales",
+        "year": "2014",
+        "runtime": "2h 2m",
+        "rated": "R",
+        "rating": 8.1,
+        "vote_count": "211K",
+        "link": "https://m.imdb.com/title/tt3011894/?ref_=chttp_t_195"
+    },
+    {
+        "title": "The Third Man",
+        "year": "1949",
+        "runtime": "1h 33m",
+        "rated": "Approved",
+        "rating": 8.1,
+        "vote_count": "179K",
+        "link": "https://m.imdb.com/title/tt0041959/?ref_=chttp_t_196"
+    },
+    {
+        "title": "Dead Poets Society",
+        "year": "1989",
+        "runtime": "2h 8m",
+        "rated": "PG",
+        "rating": 8.1,
+        "vote_count": "528K",
+        "link": "https://m.imdb.com/title/tt0097165/?ref_=chttp_t_197"
+    },
+    {
+        "title": "The Wages of Fear",
+        "year": "1953",
+        "runtime": "2h 11m",
+        "rated": "Not Rated",
+        "rating": 8.2,
+        "vote_count": "65K",
+        "link": "https://m.imdb.com/title/tt0046268/?ref_=chttp_t_198"
+    },
+    {
+        "title": "Sherlock Jr.",
+        "year": "1924",
+        "runtime": "45m",
+        "rated": "Passed",
+        "rating": 8.2,
+        "vote_count": "55K",
+        "link": "https://m.imdb.com/title/tt0015324/?ref_=chttp_t_199"
+    },
+    {
+        "title": "Mad Max: Fury Road",
+        "year": "2015",
+        "runtime": "2h",
+        "rated": "R",
+        "rating": 8.1,
+        "vote_count": "1.1M",
+        "link": "https://m.imdb.com/title/tt1392190/?ref_=chttp_t_200"
+    },
+    {
+        "title": "Monsters, Inc.",
+        "year": "2001",
+        "runtime": "1h 32m",
+        "rated": "G",
+        "rating": 8.1,
+        "vote_count": "958K",
+        "link": "https://m.imdb.com/title/tt0198781/?ref_=chttp_t_201"
+    },
+    {
+        "title": "Mr",
+        "year": "1939",
+        "runtime": "2h 9m",
+        "rated": "Passed",
+        "rating": 8.1,
+        "vote_count": "120K",
+        "link": "https://m.imdb.com/title/tt0031679/?ref_=chttp_t_202"
+    },
+    {
+        "title": "Jaws",
+        "year": "1975",
+        "runtime": "2h 4m",
+        "rated": "PG",
+        "rating": 8.1,
+        "vote_count": "646K",
+        "link": "https://m.imdb.com/title/tt0073195/?ref_=chttp_t_203"
+    },
+    {
+        "title": "How to Train Your Dragon",
+        "year": "2010",
+        "runtime": "1h 38m",
+        "rated": "PG",
+        "rating": 8.1,
+        "vote_count": "782K",
+        "link": "https://m.imdb.com/title/tt0892769/?ref_=chttp_t_204"
+    },
+    {
+        "title": "Mary and Max",
+        "year": "2009",
+        "runtime": "1h 32m",
+        "rated": "Not Rated",
+        "rating": 8.1,
+        "vote_count": "184K",
+        "link": "https://m.imdb.com/title/tt0978762/?ref_=chttp_t_205"
+    },
+    {
+        "title": "Ford v Ferrari",
+        "year": "2019",
+        "runtime": "2h 32m",
+        "rated": "PG-13",
+        "rating": 8.1,
+        "vote_count": "445K",
+        "link": "https://m.imdb.com/title/tt1950186/?ref_=chttp_t_206"
+    },
+    {
+        "title": "The Seventh Seal",
+        "year": "1957",
+        "runtime": "1h 36m",
+        "rated": "Not Rated",
+        "rating": 8.1,
+        "vote_count": "195K",
+        "link": "https://m.imdb.com/title/tt0050976/?ref_=chttp_t_207"
+    },
+    {
+        "title": "Room",
+        "year": "2015",
+        "runtime": "1h 58m",
+        "rated": "R",
+        "rating": 8.1,
+        "vote_count": "442K",
+        "link": "https://m.imdb.com/title/tt3170832/?ref_=chttp_t_208"
+    },
+    {
+        "title": "The Big Lebowski",
+        "year": "1998",
+        "runtime": "1h 57m",
+        "rated": "R",
+        "rating": 8.1,
+        "vote_count": "845K",
+        "link": "https://m.imdb.com/title/tt0118715/?ref_=chttp_t_209"
+    },
+    {
+        "title": "Ratatouille",
+        "year": "2007",
+        "runtime": "1h 51m",
+        "rated": "G",
+        "rating": 8.1,
+        "vote_count": "798K",
+        "link": "https://m.imdb.com/title/tt0382932/?ref_=chttp_t_210"
+    },
+    {
+        "title": "Tokyo Story",
+        "year": "1953",
+        "runtime": "2h 16m",
+        "rated": "Not Rated",
+        "rating": 8.1,
+        "vote_count": "67K",
+        "link": "https://m.imdb.com/title/tt0046438/?ref_=chttp_t_211"
+    },
+    {
+        "title": "Rocky",
+        "year": "1976",
+        "runtime": "2h",
+        "rated": "PG",
+        "rating": 8.1,
+        "vote_count": "615K",
+        "link": "https://m.imdb.com/title/tt0075148/?ref_=chttp_t_212"
+    },
+    {
+        "title": "Hotel Rwanda",
+        "year": "2004",
+        "runtime": "2h 1m",
+        "rated": "PG-13",
+        "rating": 8.1,
+        "vote_count": "368K",
+        "link": "https://m.imdb.com/title/tt0395169/?ref_=chttp_t_213"
+    },
+    {
+        "title": "Logan",
+        "year": "2017",
+        "runtime": "2h 17m",
+        "rated": "R",
+        "rating": 8.1,
+        "vote_count": "811K",
+        "link": "https://m.imdb.com/title/tt3315342/?ref_=chttp_t_214"
+    },
+    {
+        "title": "Spotlight",
+        "year": "2015",
+        "runtime": "2h 9m",
+        "rated": "R",
+        "rating": 8.1,
+        "vote_count": "493K",
+        "link": "https://m.imdb.com/title/tt1895587/?ref_=chttp_t_215"
+    },
+    {
+        "title": "Platoon",
+        "year": "1986",
+        "runtime": "2h",
+        "rated": "R",
+        "rating": 8.1,
+        "vote_count": "431K",
+        "link": "https://m.imdb.com/title/tt0091763/?ref_=chttp_t_216"
+    },
+    {
+        "title": "The Passion of Joan of Arc",
+        "year": "1928",
+        "runtime": "1h 54m",
+        "rated": "Passed",
+        "rating": 8.1,
+        "vote_count": "59K",
+        "link": "https://m.imdb.com/title/tt0019254/?ref_=chttp_t_217"
+    },
+    {
+        "title": "The Terminator",
+        "year": "1984",
+        "runtime": "1h 47m",
+        "rated": "R",
+        "rating": 8.1,
+        "vote_count": "907K",
+        "link": "https://m.imdb.com/title/tt0088247/?ref_=chttp_t_218"
+    },
+    {
+        "title": "Jai Bhim",
+        "year": "2021",
+        "runtime": "2h 44m",
+        "rated": "TV-MA",
+        "rating": 8.8,
+        "vote_count": "213K",
+        "link": "https://m.imdb.com/title/tt15097216/?ref_=chttp_t_219"
+    },
+    {
+        "title": "Before Sunset",
+        "year": "2004",
+        "runtime": "1h 20m",
+        "rated": "R",
+        "rating": 8.1,
+        "vote_count": "282K",
+        "link": "https://m.imdb.com/title/tt0381681/?ref_=chttp_t_220"
+    },
+    {
+        "title": "Rush",
+        "year": "2013",
+        "runtime": "2h 3m",
+        "rated": "R",
+        "rating": 8.1,
+        "vote_count": "504K",
+        "link": "https://m.imdb.com/title/tt1979320/?ref_=chttp_t_221"
+    },
+    {
+        "title": "Network",
+        "year": "1976",
+        "runtime": "2h 1m",
+        "rated": "R",
+        "rating": 8.1,
+        "vote_count": "167K",
+        "link": "https://m.imdb.com/title/tt0074958/?ref_=chttp_t_222"
+    },
+    {
+        "title": "The Best Years of Our Lives",
+        "year": "1946",
+        "runtime": "2h 50m",
+        "rated": "Approved",
+        "rating": 8.1,
+        "vote_count": "69K",
+        "link": "https://m.imdb.com/title/tt0036868/?ref_=chttp_t_223"
+    },
+    {
+        "title": "The Exorcist",
+        "year": "1973",
+        "runtime": "2h 2m",
+        "rated": "R",
+        "rating": 8.1,
+        "vote_count": "445K",
+        "link": "https://m.imdb.com/title/tt0070047/?ref_=chttp_t_224"
+    },
+    {
+        "title": "Stand by Me",
+        "year": "1986",
+        "runtime": "1h 29m",
+        "rated": "R",
+        "rating": 8.1,
+        "vote_count": "431K",
+        "link": "https://m.imdb.com/title/tt0092005/?ref_=chttp_t_225"
+    },
+    {
+        "title": "La haine",
+        "year": "1995",
+        "runtime": "1h 38m",
+        "rated": "Not Rated",
+        "rating": 8.1,
+        "vote_count": "190K",
+        "link": "https://m.imdb.com/title/tt0113247/?ref_=chttp_t_226"
+    },
+    {
+        "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "year": "2003",
+        "runtime": "2h 23m",
+        "rated": "PG-13",
+        "rating": 8.1,
+        "vote_count": "1.2M",
+        "link": "https://m.imdb.com/title/tt0325980/?ref_=chttp_t_227"
+    },
+    {
+        "title": "The Wizard of Oz",
+        "year": "1939",
+        "runtime": "1h 42m",
+        "rated": "G",
+        "rating": 8.1,
+        "vote_count": "420K",
+        "link": "https://m.imdb.com/title/tt0032138/?ref_=chttp_t_228"
+    },
+    {
+        "title": "The Incredibles",
+        "year": "2004",
+        "runtime": "1h 55m",
+        "rated": "PG",
+        "rating": 8.0,
+        "vote_count": "787K",
+        "link": "https://m.imdb.com/title/tt0317705/?ref_=chttp_t_229"
+    },
+    {
+        "title": "Into the Wild",
+        "year": "2007",
+        "runtime": "2h 28m",
+        "rated": "R",
+        "rating": 8.1,
+        "vote_count": "647K",
+        "link": "https://m.imdb.com/title/tt0758758/?ref_=chttp_t_230"
+    },
+    {
+        "title": "Hachi: A Dog's Tale",
+        "year": "2009",
+        "runtime": "1h 33m",
+        "rated": "G",
+        "rating": 8.1,
+        "vote_count": "304K",
+        "link": "https://m.imdb.com/title/tt1028532/?ref_=chttp_t_231"
+    },
+    {
+        "title": "To Be or Not to Be",
+        "year": "1942",
+        "runtime": "1h 39m",
+        "rated": "Passed",
+        "rating": 8.2,
+        "vote_count": "42K",
+        "link": "https://m.imdb.com/title/tt0035446/?ref_=chttp_t_232"
+    },
+    {
+        "title": "The Handmaiden",
+        "year": "2016",
+        "runtime": "2h 25m",
+        "rated": "Not Rated",
+        "rating": 8.1,
+        "vote_count": "166K",
+        "link": "https://m.imdb.com/title/tt4016934/?ref_=chttp_t_233"
+    },
+    {
+        "title": "My Father and My Son",
+        "year": "2005",
+        "runtime": "1h 52m",
+        "rated": "Not Rated",
+        "rating": 8.2,
+        "vote_count": "91K",
+        "link": "https://m.imdb.com/title/tt0476735/?ref_=chttp_t_234"
+    },
+    {
+        "title": "The Battle of Algiers",
+        "year": "1966",
+        "runtime": "2h 1m",
+        "rated": "Not Rated",
+        "rating": 8.1,
+        "vote_count": "64K",
+        "link": "https://m.imdb.com/title/tt0058946/?ref_=chttp_t_235"
+    },
+    {
+        "title": "Groundhog Day",
+        "year": "1993",
+        "runtime": "1h 41m",
+        "rated": "PG",
+        "rating": 8.0,
+        "vote_count": "668K",
+        "link": "https://m.imdb.com/title/tt0107048/?ref_=chttp_t_236"
+    },
+    {
+        "title": "The Grapes of Wrath",
+        "year": "1940",
+        "runtime": "2h 9m",
+        "rated": "Passed",
+        "rating": 8.1,
+        "vote_count": "98K",
+        "link": "https://m.imdb.com/title/tt0032551/?ref_=chttp_t_237"
+    },
+    {
+        "title": "Amores Perros",
+        "year": "2000",
+        "runtime": "2h 34m",
+        "rated": "R",
+        "rating": 8.1,
+        "vote_count": "250K",
+        "link": "https://m.imdb.com/title/tt0245712/?ref_=chttp_t_238"
+    },
+    {
+        "title": "The Sound of Music",
+        "year": "1965",
+        "runtime": "2h 52m",
+        "rated": "G",
+        "rating": 8.1,
+        "vote_count": "252K",
+        "link": "https://m.imdb.com/title/tt0059742/?ref_=chttp_t_239"
+    },
+    {
+        "title": "Rebecca",
+        "year": "1940",
+        "runtime": "2h 10m",
+        "rated": "Approved",
+        "rating": 8.1,
+        "vote_count": "144K",
+        "link": "https://m.imdb.com/title/tt0032976/?ref_=chttp_t_240"
+    },
+    {
+        "title": "Cool Hand Luke",
+        "year": "1967",
+        "runtime": "2h 7m",
+        "rated": "GP",
+        "rating": 8.1,
+        "vote_count": "186K",
+        "link": "https://m.imdb.com/title/tt0061512/?ref_=chttp_t_241"
+    },
+    {
+        "title": "The Iron Giant",
+        "year": "1999",
+        "runtime": "1h 26m",
+        "rated": "PG",
+        "rating": 8.1,
+        "vote_count": "219K",
+        "link": "https://m.imdb.com/title/tt0129167/?ref_=chttp_t_242"
+    },
+    {
+        "title": "Pather Panchali",
+        "year": "1955",
+        "runtime": "2h 5m",
+        "rated": "Not Rated",
+        "rating": 8.2,
+        "vote_count": "37K",
+        "link": "https://m.imdb.com/title/tt0048473/?ref_=chttp_t_243"
+    },
+    {
+        "title": "It Happened One Night",
+        "year": "1934",
+        "runtime": "1h 45m",
+        "rated": "Passed",
+        "rating": 8.1,
+        "vote_count": "110K",
+        "link": "https://m.imdb.com/title/tt0025316/?ref_=chttp_t_244"
+    },
+    {
+        "title": "The Help",
+        "year": "2011",
+        "runtime": "2h 26m",
+        "rated": "PG-13",
+        "rating": 8.1,
+        "vote_count": "483K",
+        "link": "https://m.imdb.com/title/tt1454029/?ref_=chttp_t_245"
+    },
+    {
+        "title": "The 400 Blows",
+        "year": "1959",
+        "runtime": "1h 39m",
+        "rated": "Not Rated",
+        "rating": 8.1,
+        "vote_count": "125K",
+        "link": "https://m.imdb.com/title/tt0053198/?ref_=chttp_t_246"
+    },
+    {
+        "title": "Aladdin",
+        "year": "1992",
+        "runtime": "1h 30m",
+        "rated": "G",
+        "rating": 8.0,
+        "vote_count": "454K",
+        "link": "https://m.imdb.com/title/tt0103639/?ref_=chttp_t_247"
+    },
+    {
+        "title": "Dances with Wolves",
+        "year": "1990",
+        "runtime": "3h 1m",
+        "rated": "PG-13",
+        "rating": 8.0,
+        "vote_count": "284K",
+        "link": "https://m.imdb.com/title/tt0099348/?ref_=chttp_t_248"
+    },
+    {
+        "title": "Life of Brian",
+        "year": "1979",
+        "runtime": "1h 34m",
+        "rated": "R",
+        "rating": 8.0,
+        "vote_count": "417K",
+        "link": "https://m.imdb.com/title/tt0079470/?ref_=chttp_t_249"
+    },
+    {
+        "title": "Persona",
+        "year": "1966",
+        "runtime": "1h 23m",
+        "rated": "Not Rated",
+        "rating": 8.1,
+        "vote_count": "128K",
+        "link": "https://m.imdb.com/title/tt0060827/?ref_=chttp_t_250"
+    },
+    {
+        "title": "Leo",
+        "year": "2023",
+        "runtime": "1h 42m",
+        "rated": "PG",
+        "rating": 7.9,
+        "vote_count": 265,
+        "link": "https://www.themoviedb.org/movie/1075794?language=en-US"
+    },
+    {
+        "title": "Trolls Band Together",
+        "year": "2023",
+        "runtime": "1h 32m",
+        "rated": "PG",
+        "rating": 7.2,
+        "vote_count": 212,
+        "link": "https://www.themoviedb.org/movie/901362?language=en-US"
+    },
+    {
+        "title": "Oppenheimer",
+        "year": "2023",
+        "runtime": "3h 1m",
+        "rated": "R",
+        "rating": 8.2,
+        "vote_count": 5028,
+        "link": "https://www.themoviedb.org/movie/872585?language=en-US"
+    },
+    {
+        "title": "The Creator",
+        "year": "2023",
+        "runtime": "2h 14m",
+        "rated": "PG-13",
+        "rating": 7.1,
+        "vote_count": 1209,
+        "link": "https://www.themoviedb.org/movie/670292?language=en-US"
+    },
+    {
+        "title": "Five Nights at Freddy's",
+        "year": "2023",
+        "runtime": "1h 50m",
+        "rated": "PG-13",
+        "rating": 7.9,
+        "vote_count": 2580,
+        "link": "https://www.themoviedb.org/movie/507089?language=en-US"
+    },
+    {
+        "title": "Expend4bles",
+        "year": "2023",
+        "runtime": "1h 43m",
+        "rated": "R",
+        "rating": 6.4,
+        "vote_count": 816,
+        "link": "https://www.themoviedb.org/movie/299054?language=en-US"
+    },
+    {
+        "title": "Fast X",
+        "year": "2023",
+        "runtime": "2h 22m",
+        "rated": "PG-13",
+        "rating": 7.2,
+        "vote_count": 4359,
+        "link": "https://www.themoviedb.org/movie/385687?language=en-US"
+    },
+    {
+        "title": "Mission: Impossible - Dead Reckoning Part One",
+        "year": "2023",
+        "runtime": "2h 44m",
+        "rated": "PG-13",
+        "rating": 7.6,
+        "vote_count": 2574,
+        "link": "https://www.themoviedb.org/movie/575264?language=en-US"
+    },
+    {
+        "title": "Napoleon",
+        "year": "2023",
+        "runtime": "2h 38m",
+        "rated": "R",
+        "rating": 6.5,
+        "vote_count": 383,
+        "link": "https://www.themoviedb.org/movie/753342?language=en-US"
+    },
+    {
+        "title": "Jawan",
+        "year": "2023",
+        "runtime": "2h 49m",
+        "rated": "NR",
+        "rating": 7.2,
+        "vote_count": 121,
+        "link": "https://www.themoviedb.org/movie/872906?language=en-US"
+    },
+    {
+        "title": "The Equalizer 3",
+        "year": "2023",
+        "runtime": "1h 49m",
+        "rated": "R",
+        "rating": 7.4,
+        "vote_count": 1751,
+        "link": "https://www.themoviedb.org/movie/926393?language=en-US"
+    },
+    {
+        "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+        "year": "2023",
+        "runtime": "2h 37m",
+        "rated": "PG-13",
+        "rating": 7.3,
+        "vote_count": 476,
+        "link": "https://www.themoviedb.org/movie/695721?language=en-US"
+    },
+    {
+        "title": "Princess Khutulun",
+        "year": "2021",
+        "runtime": "1h 48m",
+        "rated": "15",
+        "rating": 7.1,
+        "vote_count": 31,
+        "link": "https://www.themoviedb.org/movie/960481?language=en-US"
+    },
+    {
+        "title": "The Survivor",
+        "year": "2022",
+        "runtime": "2h 9m",
+        "rated": "R",
+        "rating": 7.2,
+        "vote_count": 114,
+        "link": "https://www.themoviedb.org/movie/606870?language=en-US"
+    },
+    {
+        "title": "Believer 2",
+        "year": "2023",
+        "runtime": "1h 56m",
+        "rated": "R",
+        "rating": 7.1,
+        "vote_count": 38,
+        "link": "https://www.themoviedb.org/movie/958263?language=en-US"
+    },
+    {
+        "title": "Meg 2: The Trench",
+        "year": "2023",
+        "runtime": "1h 56m",
+        "rated": "PG-13",
+        "rating": 6.7,
+        "vote_count": 2601,
+        "link": "https://www.themoviedb.org/movie/615656?language=en-US"
+    },
+    {
+        "title": "The Super Mario Bros. Movie",
+        "year": "2023",
+        "runtime": "1h 33m",
+        "rated": "PG",
+        "rating": 7.7,
+        "vote_count": 7275,
+        "link": "https://www.themoviedb.org/movie/502356?language=en-US"
+    },
+    {
+        "title": "The Marvels",
+        "year": "2023",
+        "runtime": "1h 45m",
+        "rated": "PG-13",
+        "rating": 6.6,
+        "vote_count": 574,
+        "link": "https://www.themoviedb.org/movie/609681?language=en-US"
+    },
+    {
+        "title": "Blue Beetle",
+        "year": "2023",
+        "runtime": "2h 8m",
+        "rated": "PG-13",
+        "rating": 6.9,
+        "vote_count": 1760,
+        "link": "https://www.themoviedb.org/movie/565770?language=en-US"
+    },
+    {
+        "title": "Dragon Ball: Mystical Adventure",
+        "year": "1988",
+        "runtime": "0h 48m",
+        "rated": "PG",
+        "rating": 6.8,
+        "vote_count": 225,
+        "link": "https://www.themoviedb.org/movie/116776?language=en-US"
+    }
+]
