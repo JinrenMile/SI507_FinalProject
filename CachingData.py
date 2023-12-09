@@ -144,5 +144,9 @@ with open('TMDB_popular_20_movies.json', 'w') as json_file:
 
 # Step 3 Combine and Cache the 2 Movie Data
 movie_data = IMDB_top_250_movies + TMDB_popular_20_movies
+
+for i, dictionary in enumerate(movie_data, start=1):
+    dictionary['number'] = i
+
 with open('movie_data.json', 'w') as json_file:
     json.dump(movie_data, json_file, indent=4)
