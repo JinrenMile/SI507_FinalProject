@@ -1,0 +1,182 @@
+[
+    {
+        "title": "Leo",
+        "year": "2023",
+        "runtime": "1h 42m",
+        "rated": "PG",
+        "rating": 7.9,
+        "vote_count": 265,
+        "link": "https://www.themoviedb.org/movie/1075794?language=en-US"
+    },
+    {
+        "title": "Trolls Band Together",
+        "year": "2023",
+        "runtime": "1h 32m",
+        "rated": "PG",
+        "rating": 7.2,
+        "vote_count": 212,
+        "link": "https://www.themoviedb.org/movie/901362?language=en-US"
+    },
+    {
+        "title": "Oppenheimer",
+        "year": "2023",
+        "runtime": "3h 1m",
+        "rated": "R",
+        "rating": 8.2,
+        "vote_count": 5028,
+        "link": "https://www.themoviedb.org/movie/872585?language=en-US"
+    },
+    {
+        "title": "The Creator",
+        "year": "2023",
+        "runtime": "2h 14m",
+        "rated": "PG-13",
+        "rating": 7.1,
+        "vote_count": 1209,
+        "link": "https://www.themoviedb.org/movie/670292?language=en-US"
+    },
+    {
+        "title": "Five Nights at Freddy's",
+        "year": "2023",
+        "runtime": "1h 50m",
+        "rated": "PG-13",
+        "rating": 7.9,
+        "vote_count": 2580,
+        "link": "https://www.themoviedb.org/movie/507089?language=en-US"
+    },
+    {
+        "title": "Expend4bles",
+        "year": "2023",
+        "runtime": "1h 43m",
+        "rated": "R",
+        "rating": 6.4,
+        "vote_count": 816,
+        "link": "https://www.themoviedb.org/movie/299054?language=en-US"
+    },
+    {
+        "title": "Fast X",
+        "year": "2023",
+        "runtime": "2h 22m",
+        "rated": "PG-13",
+        "rating": 7.2,
+        "vote_count": 4359,
+        "link": "https://www.themoviedb.org/movie/385687?language=en-US"
+    },
+    {
+        "title": "Mission: Impossible - Dead Reckoning Part One",
+        "year": "2023",
+        "runtime": "2h 44m",
+        "rated": "PG-13",
+        "rating": 7.6,
+        "vote_count": 2574,
+        "link": "https://www.themoviedb.org/movie/575264?language=en-US"
+    },
+    {
+        "title": "Napoleon",
+        "year": "2023",
+        "runtime": "2h 38m",
+        "rated": "R",
+        "rating": 6.5,
+        "vote_count": 383,
+        "link": "https://www.themoviedb.org/movie/753342?language=en-US"
+    },
+    {
+        "title": "Jawan",
+        "year": "2023",
+        "runtime": "2h 49m",
+        "rated": "NR",
+        "rating": 7.2,
+        "vote_count": 121,
+        "link": "https://www.themoviedb.org/movie/872906?language=en-US"
+    },
+    {
+        "title": "The Equalizer 3",
+        "year": "2023",
+        "runtime": "1h 49m",
+        "rated": "R",
+        "rating": 7.4,
+        "vote_count": 1751,
+        "link": "https://www.themoviedb.org/movie/926393?language=en-US"
+    },
+    {
+        "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+        "year": "2023",
+        "runtime": "2h 37m",
+        "rated": "PG-13",
+        "rating": 7.3,
+        "vote_count": 476,
+        "link": "https://www.themoviedb.org/movie/695721?language=en-US"
+    },
+    {
+        "title": "Princess Khutulun",
+        "year": "2021",
+        "runtime": "1h 48m",
+        "rated": "15",
+        "rating": 7.1,
+        "vote_count": 31,
+        "link": "https://www.themoviedb.org/movie/960481?language=en-US"
+    },
+    {
+        "title": "The Survivor",
+        "year": "2022",
+        "runtime": "2h 9m",
+        "rated": "R",
+        "rating": 7.2,
+        "vote_count": 114,
+        "link": "https://www.themoviedb.org/movie/606870?language=en-US"
+    },
+    {
+        "title": "Believer 2",
+        "year": "2023",
+        "runtime": "1h 56m",
+        "rated": "R",
+        "rating": 7.1,
+        "vote_count": 38,
+        "link": "https://www.themoviedb.org/movie/958263?language=en-US"
+    },
+    {
+        "title": "Meg 2: The Trench",
+        "year": "2023",
+        "runtime": "1h 56m",
+        "rated": "PG-13",
+        "rating": 6.7,
+        "vote_count": 2601,
+        "link": "https://www.themoviedb.org/movie/615656?language=en-US"
+    },
+    {
+        "title": "The Super Mario Bros. Movie",
+        "year": "2023",
+        "runtime": "1h 33m",
+        "rated": "PG",
+        "rating": 7.7,
+        "vote_count": 7275,
+        "link": "https://www.themoviedb.org/movie/502356?language=en-US"
+    },
+    {
+        "title": "The Marvels",
+        "year": "2023",
+        "runtime": "1h 45m",
+        "rated": "PG-13",
+        "rating": 6.6,
+        "vote_count": 574,
+        "link": "https://www.themoviedb.org/movie/609681?language=en-US"
+    },
+    {
+        "title": "Blue Beetle",
+        "year": "2023",
+        "runtime": "2h 8m",
+        "rated": "PG-13",
+        "rating": 6.9,
+        "vote_count": 1760,
+        "link": "https://www.themoviedb.org/movie/565770?language=en-US"
+    },
+    {
+        "title": "Dragon Ball: Mystical Adventure",
+        "year": "1988",
+        "runtime": "0h 48m",
+        "rated": "PG",
+        "rating": 6.8,
+        "vote_count": 225,
+        "link": "https://www.themoviedb.org/movie/116776?language=en-US"
+    }
+]
