@@ -18,10 +18,15 @@ TMDB_API_KEY = ‘…’ <br>
 url = ‘…’
 
 ### Data Structure
-**STEP 1: One 3-level Tree**
-It is the first step of this system, knowing the preference of users for the movies they may want.
-Level 1: Are you looking for a movie for family with kids?
-Considering some movies may not suitable for kids under 13, the rated of movie should be the very first consideration when picking a movie. To conduct this step, I will use the attribute “rated” from the final data. Movies with rated value of G, PG, and PG-13 will go to the answer “Yes”, and others will go to the answer “No”.
+**STEP 1: One 3-level Tree** <br>
+It is the first step of this system, knowing the preference of users for the movies they may want. <br>
+Level 1: Are you looking for a movie for family with kids? <br>
+Considering some movies may not suitable for kids under 13, the rated of movie should be the very first consideration when picking a movie. To conduct this step, I will use the attribute **“rated”** from the final data. Movies with rated value of G, PG, and PG-13 will go to the answer “yes”, and others will go to the answer “no”. <br>
+
+level 2: Are you looking for a movie over 2 hours? <br>
+For time consideration, some users prefer long movies but others may not have enough time. To conduct this step, I will use the attribute **“runtime”** from the final data. Movies with runtime over 2 hours will go to the answer “yes”, and those with 2 hours will go to the answer “no”.
+
+
 
 
 
