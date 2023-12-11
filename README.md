@@ -13,7 +13,8 @@ requests <br>
 webbrowser 
 
 ### Instruction for Web API
-For the Web API, I have put my API key of TMDB in CachingData.py, with the URL I used for collecting the popular 20 movies in TMDB. They look like: <br>
+For the Web API, I have put my API key of TMDB in CachingData.py, with the URL I used for collecting the popular 20 movies in TMDB. <br>
+They look like: <br>
 TMDB_API_KEY = ‘…’ <br>
 url = ‘…’
 
