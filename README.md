@@ -1,12 +1,12 @@
 # SI507 Final Project
 This is the Final Project of SI 507, it is a program gives users recommendations to help them find a movie according to their requirements.
-Movie data source:
-**IMDB Top 250 Movies** (Web Scraping)
+Movie data source: <br>
+**IMDB Top 250 Movies** (Web Scraping) <br>
 **TMDB Popular 20 Movies** (Web API)
 
 ### Required Python Package
-BeautifulSoup
-json
+BeautifulSoup <br>
+json <br>
 pprint
 re
 requests
