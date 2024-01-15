@@ -1,5 +1,5 @@
 # SI507 Final Project
-This is the Final Project of SI 507, it is a Movie Recommendation System, giving users suggestions to help them find a movie according to their requirements. <br>
+This is the Final Project of SI 507, it is a Movie Recommendation System, giving users suggestions to help them find a movie according to their requirements. Here is the link for the demo vedio: https://drive.google.com/file/d/160Bg_u-fv8MAWdb5aTNhGLsThCIjEMY7/view?usp=sharing <br>
 Movie data source: <br>
 **IMDB Top 250 Movies** (Web Scraping) <br>
 **TMDB Popular 20 Movies** (Web API)
